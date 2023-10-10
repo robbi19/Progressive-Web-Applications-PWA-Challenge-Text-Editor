@@ -64,12 +64,11 @@ This program is a text editor that can be run in-browser, or be installed to the
 To contribute to PWA-text editor, clone this repo locally and commit your code on a separate branch.
 
 ## Mock Up
-
+<img width="944" alt="image" src="https://github.com/robbi19/Progressive-Web-Applications-PWA-Challenge-Text-Editor/assets/128949831/6797a208-1f70-4a78-8659-1e4d0b20e217">
+https://drive.google.com/file/d/1aJZMk5jUZ3vLiEpHhoiOUola3nDZFCuD/view
 
 ## Questions
 Below is the link to my demo video on my Github:
+https://drive.google.com/file/d/1aJZMk5jUZ3vLiEpHhoiOUola3nDZFCuD/view
 
-Deploy- 
-
-Heroku-
 
